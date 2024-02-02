@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Frankoxer. Now a sophermore in ZJU.
+# Hi, there!
+- 👋 I’m @Frankoxer. Now a sophermore in ZJU.
 - 👀 I’m interested in music games and billiards(both Chinese 8 Ball and snooker!!).
 - 🌱 I’m currently learning ...?
 - 💞️ I’m looking to collaborate on ...?
