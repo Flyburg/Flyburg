@@ -1,11 +1,8 @@
 # Hi, there!
-- 👋 I’m @Frankoxer. Now a sophermore in ZJU.
-- 👀 I’m interested in music games and billiards(both Chinese 8 Ball and snooker!!).
-- 🌱 I’m currently learning ...?
-- 💞️ I’m looking to collaborate on ...?
+- 👋 I’m @Frankoxer. Now a sophermore in ZJU majoring in CS.
+- 👀 I’m interested in music games and billiards.
+- 🌱 I’m currently learning computer system and C++.
 - 📫 How to reach me : bilibili@五伏亿安
-- 😄 Pronouns: ...?
-- ⚡ Fun fact: ...?
 
 <!---
 Frankoxer/Frankoxer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
