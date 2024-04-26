@@ -1,7 +1,7 @@
 # Hi, there!
-- 👋 I’m @Frankoxer. Now a sophermore in ZJU majoring in CS.
+- 👋 I’m @Frankoxer. Now a sophermore in ZJU majoring in Computer Science.
 - 👀 I’m interested in music games and billiards.
-- 🌱 I’m currently learning computer system and C++.
+- 🌱 I’m currently learning computer system, C++, database system and algorithms.
 - 📫 How to reach me : bilibili@五伏亿安
 
 <!---
