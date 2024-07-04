@@ -1,8 +1,10 @@
 # Hi, there!
-- 👋 I’m @Frankoxer. Now a sophermore in ZJU majoring in Computer Science.
-- 👀 I’m interested in music games and billiards.
-- 🌱 I’m currently learning computer system, C++, database system and algorithms.
-- 📫 How to reach me : bilibili@五伏亿安
+- 👋 I’m @Frankoxer, now a prospective junior in ZJU majoring in Computer Science and Technology.
+- 🌱 I’m perparing to learn computer architecture, operating system and computation theory.
+- 👀 I’m interested in rhythm games(Arcaea, Phigros, etc.) and billiards(Chinese Pool, Snooker, etc.).
+- 📫 How to reach me : [bilibili@五伏亿安](https://space.bilibili.com/85414704), frankoxer@outlook.com
+
+Very glad to make friends with you :)
 
 <!---
 Frankoxer/Frankoxer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
