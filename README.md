@@ -1,6 +1,6 @@
 # Hi, there!
-- 👋 I’m @Frankoxer, now a prospective junior in ZJU majoring in Computer Science and Technology.
-- 🌱 I’m perparing to learn computer architecture, operating system and computation theory.
+- 👋 I’m @Frankoxer, now a junior in ZJU majoring in Computer Science and Technology.
+- 🌱 I’ve just finished learning computer architecture, operating system and computation theory.
 - 👀 I’m interested in rhythm games(Arcaea, Phigros, etc.) and billiards(Chinese Pool, Snooker, etc.).
 - 📫 How to reach me : [bilibili@五伏亿安](https://space.bilibili.com/85414704), frankoxer@outlook.com
 
