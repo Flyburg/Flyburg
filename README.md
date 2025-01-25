@@ -1,8 +1,6 @@
 <div id="title" align=center>
 
-<!-- ![Modern C++ template][github-sub-title:img] -->
-
-### Frankoxer here 👋
+### Fanovian here 👋
 
 A ZJU-Turing student, majoring in Computer Science and Technology.
 
@@ -24,8 +22,3 @@ Fav: Billiards 🎱 / Rhythm Games 🎮 / Piano 🎹 / Singing 🎤
 ***Get in, you beauty!***
 
 </div>
-
-<!---
-Frankoxer/Frankoxer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
