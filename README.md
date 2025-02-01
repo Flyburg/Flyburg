@@ -8,6 +8,8 @@ Recently interested in **Computer Architecture** and **Operating System**.
 
 Trying to become a "computer master"(🤓?)
 
+[MY BLOG](https://blog.fanovian.cc) · [MY NOTEBOOK](https://note.fanovian.cc)
+
 Fav: Billiards 🎱 / Rhythm Games 🎮 / Piano 🎹 / Singing 🎤
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-Fanovian-pink
