@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-### Fanovian here 👋
+### Flyburg here 👋
 
 A ZJU-Turing student, majoring in Computer Science and Technology.
 
