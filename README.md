@@ -17,7 +17,7 @@ Fav: Billiards 🎱 / Rhythm Games 🎮 / Piano 🎹 / Singing 🎤
 [![Outlook](https://img.shields.io/badge/Outlook-Fanovian-deepskyblue)](mailto:<fanovian@outlook.com>)
 [![Coolapk](https://img.shields.io/badge/Coolapk-%E4%BA%94%E4%BC%8F%E4%BA%BF%E5%AE%89-green)](https://www.coolapk.com/u/1100645)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanovian&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flyburg&show_icons=true&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=Fanovian&style=for-the-badge)
 
