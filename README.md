@@ -4,7 +4,7 @@
 
 A postgraduate student of PI@ZJU, majoring in Big Data Tech&Engineering.
 
-[MY BLOG](https://blog.flyburg.cc) · [MY NOTEBOOK](https://note.flyburg.cc)
+[My Blog](https://flyburg.cc) · [My Notebook](https://note.flyburg.cc)
 
 Fav: maimai 🎮 / snooker 🎱 / piano 🎹 / drums 🥁
 
